@@ -1,2 +1,2 @@
-# Gym-Webpage
-A webpage designed for a gym to promote their buisness
+# A black calculator
+A calculator built in android studio to sove basic mathematical and arithmatic problems
